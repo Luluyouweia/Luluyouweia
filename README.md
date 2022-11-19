@@ -1,0 +1,17 @@
+# How I Am
+- 👋 Hi, I’m @Luluyouweia
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me : This github or my Twitter: @lucel123
+- 🇨🇳 I am from P.P.C.
+- ✌ I'm a 15 years old boy .
+
+## 热爱创造，热爱美好
+
+* 我的个人博客： 
+
+[View Github Pages Blog 查看我的Github Pages博客](https://luluyouweia.github.io/)
+
+- 项目：鹿客音乐
+
+[查看鹿客音乐](https://luluyouweia.github.io/music/)

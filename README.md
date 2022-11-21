@@ -7,7 +7,7 @@
 - ✌ I'm a 15 years old boy .
 
 ## 项目导航
-[Luluyouweia.github.io](https://github.com/Luluyouweia/Luluyouweia-github-io)
+[Luluyouweia.github.io](https://github.com/Luluyouweia/Luluyouweia.github.io)
 
 ## 热爱创造，热爱美好
 

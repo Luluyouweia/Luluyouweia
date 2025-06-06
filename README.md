@@ -2,9 +2,9 @@
 - 👋 Hi, I’m @Luluyouweia
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me : This github or my Twitter: @lucel123
+- 📫 How to reach me : heihei
 - 🇨🇳 I am from P.P.C.
-- ✌ I'm a 15 years old boy .
+- ✌ I'm 17 now .
 
 ## 项目导航
 [Luluyouweia.github.io](https://github.com/Luluyouweia/Luluyouweia.github.io)

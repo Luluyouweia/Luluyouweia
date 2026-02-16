@@ -2,9 +2,9 @@
 - 👋 Hi, I’m @Luluyouweia
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me : heihei
+- 📫 How to reach me : lucel152@outlook.com
 - 🇨🇳 I am from P.P.C.
-- ✌ I'm 17 now .
+- ✌ I'm 18 now .
 
 ## 项目导航
 [Luluyouweia.github.io](https://github.com/Luluyouweia/Luluyouweia.github.io)
